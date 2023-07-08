@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityagarg0911
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... c++ with dsa
+- 🌱 I’m currently learning ... dsa in c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... adityagarg0911@gmail.com
 
